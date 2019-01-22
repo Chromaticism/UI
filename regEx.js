@@ -1,4 +1,4 @@
-const string = " There is a cat there";
+const string1 = " There is a cat there";
 
 const regex = /cat/;
 
