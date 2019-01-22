@@ -1,3 +1,11 @@
+const string = " There is a cat there";
+
+const regex = /cat/;
+
+const isExisting = regex.test(string);
+
+console.log(isExisting);
+
 //var re=new RegExp ();
 //RegExp JS class，like Array 。然而这个创建方法没有指定表达式内容
 
@@ -12,17 +20,17 @@
 //anther method created
 
 
-var re = /a/i;
+//var re = /a/i;
 
 //------test()
 
 
-var patt = /e/;
-var result = patt.test("The best things in life are free!");
+//var patt = /e/;
+//var result = patt.test("The best things in life are free!");
 
 ///e/.test("The best things in life are free!")
 
-console.log(result);
+//console.log(result);
 
 //exec() 方法用于检索字符串中的正则表达式的匹配。该函数返回一个数组，其中存放匹配的结果
 
@@ -31,33 +39,33 @@ console.log(result);
 //--search()
 
 //使用正则表达式搜索 "Runoob" 字符串，且不区分大小写：
-var str = "Visit Runoob!"; 
-var n = str.search(/Runoob/i);
+//var str = "Visit Runoob!"; 
+//var n = str.search(/Runoob/i);
 
 
-console.log(n);
+//console.log(n);
 
 
 //var str = "Visit Runoob!"; 
-var m = str.search("Runoob");
+//var m = str.search("Runoob");
 
-console.log(m);
+//console.log(m);
 
 
 //--relace() 方法将接收字符串作为参数
 
-var str2="Visit W3CSchool!";
-var n2=str2.replace("W3CSchool","Runoob");
+//var str2="Visit W3CSchool!";
+//var n2=str2.replace("W3CSchool","Runoob");
 
-console.log(n2);
+//console.log(n2);
 
 
 //common grammar.  () {} []
 
-function isStudentNo(str) {
-    var reg=/^[0-9]{8}$/;   /*定义验证表达式*/
-    return reg.test(str);     /*进行验证*/
-}
+//function isStudentNo(str) {
+//    var reg=/^[0-9]{8}$/;   /*定义验证表达式*/
+//    return reg.test(str);     /*进行验证*/
+//}
 
 //[] the range  [0-9] means search the num from 0 to 9
 //{} usually means length {8} means have 8 number or bit
