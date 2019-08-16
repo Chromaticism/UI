@@ -1,0 +1,290 @@
+{"level":"error","message":"App crashed","timestamp":"2019-02-19T01:31:46.042Z"}
+{"level":"error","message":"Database cannot connected","timestamp":"2019-02-19T01:33:00.236Z"}
+{"level":"error","message":"Database cannot connected","timestamp":"2019-02-19T01:49:41.705Z"}
+{"level":"error","message":"Database cannot connected","timestamp":"2019-02-19T01:53:18.690Z"}
+{"level":"error","message":"Database cannot connected","timestamp":"2019-02-19T01:58:55.723Z"}
+{"level":"info","message":"Database connected","timestamp":"2019-02-19T01:59:46.926Z"}
+{"level":"info","message":"Database connected","timestamp":"2019-02-19T02:25:44.003Z"}
+{"level":"info","message":"Database connected","timestamp":"2019-02-19T02:26:34.262Z"}
+{"level":"info","message":"Database connected","timestamp":"2019-02-19T02:27:00.544Z"}
+{"level":"info","message":"Database connected","timestamp":"2019-02-19T02:33:14.996Z"}
+{"level":"info","message":"Database connected","timestamp":"2019-02-19T02:34:11.250Z"}
+{"level":"error","message":"Database cannot connected","timestamp":"2019-02-19T02:43:36.377Z"}
+{"level":"error","message":"Database cannot connected","timestamp":"2019-02-19T02:56:46.761Z"}
+{"level":"error","message":"Database cannot connected","timestamp":"2019-02-19T02:57:19.776Z"}
+{"level":"error","message":"Database cannot connected","timestamp":"2019-02-19T04:23:38.881Z"}
+{"level":"error","message":"Database cannot connected","timestamp":"2019-02-19T04:24:01.304Z"}
+{"level":"info","message":"Database connected","timestamp":"2019-02-21T14:00:23.016Z"}
+{"level":"info","message":"Database connected","timestamp":"2019-02-21T14:16:09.482Z"}
+{"level":"info","message":"Database connected","timestamp":"2019-02-21T16:25:09.032Z"}
+{"level":"info","message":"Database connected","timestamp":"2019-02-21T19:01:17.436Z"}
+{"level":"info","message":"Database connected","timestamp":"2019-02-22T03:55:02.046Z"}
+{"level":"info","message":"Database connected","timestamp":"2019-02-22T03:55:22.343Z"}
+{"level":"info","message":"Database connected","timestamp":"2019-02-22T03:55:43.877Z"}
+{"level":"info","message":"Database connected","timestamp":"2019-02-22T05:19:33.170Z"}
+{"level":"info","message":"Database connected","timestamp":"2019-02-22T05:27:09.717Z"}
+{"level":"info","message":"Database connected","timestamp":"2019-02-22T05:27:29.525Z"}
+{"level":"info","message":"Database connected","timestamp":"2019-02-22T05:35:51.641Z"}
+{"level":"info","message":"Database connected","timestamp":"2019-02-22T05:35:59.581Z"}
+{"level":"info","message":"Database connected","timestamp":"2019-02-22T05:46:56.419Z"}
+{"level":"info","message":"Database connected","timestamp":"2019-02-22T06:00:08.482Z"}
+{"level":"info","message":"Database connected","timestamp":"2019-02-22T13:29:18.158Z"}
+{"level":"info","message":"Database connected","timestamp":"2019-02-22T13:34:40.997Z"}
+{"level":"info","message":"Database connected","timestamp":"2019-02-22T13:35:59.356Z"}
+{"level":"info","message":"Database connected","timestamp":"2019-02-22T13:50:34.059Z"}
+{"level":"info","message":"Database connected","timestamp":"2019-02-22T15:24:57.344Z"}
+{"level":"info","message":"Database connected","timestamp":"2019-02-22T15:29:19.456Z"}
+{"level":"info","message":"Database connected","timestamp":"2019-02-22T15:50:48.471Z"}
+{"level":"info","message":"Database connected","timestamp":"2019-02-22T15:56:04.025Z"}
+{"level":"info","message":"Database connected","timestamp":"2019-02-22T15:56:19.813Z"}
+{"level":"error","message":"Cannot read property 'password' of null","timestamp":"2019-02-22T15:57:04.197Z"}
+{"level":"error","message":"Cannot read property 'password' of null","timestamp":"2019-02-22T15:57:15.274Z"}
+{"level":"error","message":"Cannot read property 'password' of null","timestamp":"2019-02-22T15:58:09.489Z"}
+{"level":"error","message":"Cannot read property 'password' of null","timestamp":"2019-02-22T16:00:09.493Z"}
+{"level":"info","message":"Database connected","timestamp":"2019-02-22T18:27:48.860Z"}
+{"level":"info","message":"Database connected","timestamp":"2019-02-22T18:28:21.477Z"}
+{"level":"error","message":"Cannot read property 'password' of null","timestamp":"2019-02-23T23:58:31.005Z"}
+{"level":"error","message":"Cannot read property 'password' of null","timestamp":"2019-02-23T23:58:32.182Z"}
+{"level":"error","message":"Cannot read property 'password' of null","timestamp":"2019-02-23T23:59:42.266Z"}
+{"level":"error","message":"Cannot read property 'password' of null","timestamp":"2019-02-23T23:59:46.251Z"}
+{"level":"error","message":"Cannot read property 'password' of null","timestamp":"2019-02-23T23:59:49.127Z"}
+{"level":"error","message":"Cannot read property 'password' of null","timestamp":"2019-02-23T23:59:49.500Z"}
+{"level":"error","message":"Cannot read property 'password' of null","timestamp":"2019-02-24T00:01:46.255Z"}
+{"level":"error","message":"Cannot read property 'password' of null","timestamp":"2019-02-24T00:01:49.130Z"}
+{"level":"error","message":"Cannot read property 'password' of null","timestamp":"2019-02-24T00:01:49.506Z"}
+{"level":"error","message":"Cannot read property 'password' of null","timestamp":"2019-02-24T00:34:48.998Z"}
+{"level":"info","message":"Database connected","timestamp":"2019-02-24T00:35:33.834Z"}
+{"level":"error","message":"Cannot read property 'password' of null","timestamp":"2019-02-24T00:35:41.836Z"}
+{"level":"info","message":"Database connected","timestamp":"2019-02-24T00:36:15.944Z"}
+{"level":"info","message":"Database connected","timestamp":"2019-02-24T00:36:17.612Z"}
+{"level":"error","message":"Cannot read property 'password' of null","timestamp":"2019-02-24T00:36:26.483Z"}
+{"level":"info","message":"Database connected","timestamp":"2019-02-24T00:36:51.522Z"}
+{"level":"error","message":"Cannot read property 'password' of null","timestamp":"2019-02-24T00:36:54.852Z"}
+{"level":"info","message":"Database connected","timestamp":"2019-02-24T00:37:08.933Z"}
+{"level":"error","message":"Cannot read property 'password' of null","timestamp":"2019-02-24T00:37:14.460Z"}
+{"level":"info","message":"Database connected","timestamp":"2019-02-24T00:37:51.731Z"}
+{"level":"info","message":"Database connected","timestamp":"2019-02-24T00:38:24.107Z"}
+{"level":"info","message":"Database connected","timestamp":"2019-02-24T00:38:44.712Z"}
+{"level":"info","message":"Database connected","timestamp":"2019-02-24T01:48:55.223Z"}
+{"level":"info","message":"Database connected","timestamp":"2019-02-24T01:49:23.098Z"}
+{"level":"info","message":"Database connected","timestamp":"2019-02-24T01:59:29.438Z"}
+{"level":"info","message":"Database connected","timestamp":"2019-02-24T01:59:33.830Z"}
+{"level":"info","message":"Database connected","timestamp":"2019-02-24T04:43:03.361Z"}
+{"level":"info","message":"Database connected","timestamp":"2019-02-24T04:43:59.323Z"}
+{"level":"info","message":"Database connected","timestamp":"2019-02-24T19:22:08.544Z"}
+{"level":"info","message":"Database connected","timestamp":"2019-02-24T19:27:04.169Z"}
+{"level":"info","message":"Database connected","timestamp":"2019-02-24T19:28:15.640Z"}
+{"level":"info","message":"Database connected","timestamp":"2019-02-24T19:29:00.958Z"}
+{"level":"info","message":"Database connected","timestamp":"2019-02-24T19:29:16.407Z"}
+{"level":"info","message":"Database connected","timestamp":"2019-02-24T19:29:17.033Z"}
+{"level":"info","message":"Database connected","timestamp":"2019-02-24T19:43:56.111Z"}
+{"level":"info","message":"Database connected","timestamp":"2019-02-24T19:44:40.493Z"}
+{"level":"info","message":"Database connected","timestamp":"2019-02-24T20:42:18.181Z"}
+{"level":"info","message":"Database connected","timestamp":"2019-02-24T20:42:27.951Z"}
+{"level":"info","message":"Database connected","timestamp":"2019-02-24T20:42:33.736Z"}
+{"level":"info","message":"Database connected","timestamp":"2019-02-24T20:43:18.171Z"}
+{"level":"info","message":"Database connected","timestamp":"2019-02-24T20:44:23.334Z"}
+{"level":"info","message":"Database connected","timestamp":"2019-02-24T20:45:13.869Z"}
+{"level":"info","message":"Database connected","timestamp":"2019-02-24T20:47:14.136Z"}
+{"level":"info","message":"Database connected","timestamp":"2019-02-24T20:52:55.549Z"}
+{"level":"info","message":"Database connected","timestamp":"2019-02-24T20:54:48.061Z"}
+{"level":"info","message":"Database connected","timestamp":"2019-02-24T20:55:01.209Z"}
+{"level":"info","message":"Database connected","timestamp":"2019-02-24T20:55:17.156Z"}
+{"level":"info","message":"Database connected","timestamp":"2019-02-24T20:55:19.960Z"}
+{"level":"info","message":"Database connected","timestamp":"2019-02-24T20:59:22.614Z"}
+{"level":"info","message":"Database connected","timestamp":"2019-02-24T21:01:06.478Z"}
+{"level":"info","message":"Database connected","timestamp":"2019-02-24T21:02:15.586Z"}
+{"level":"info","message":"Database connected","timestamp":"2019-02-24T21:02:33.040Z"}
+{"level":"info","message":"Database connected","timestamp":"2019-02-24T21:04:05.028Z"}
+{"level":"info","message":"Database connected","timestamp":"2019-02-24T21:07:43.050Z"}
+{"level":"info","message":"Database connected","timestamp":"2019-02-24T21:08:12.971Z"}
+{"level":"info","message":"Database connected","timestamp":"2019-02-25T00:14:07.755Z"}
+{"level":"info","message":"Database connected","timestamp":"2019-02-25T00:14:22.113Z"}
+{"level":"info","message":"Database connected","timestamp":"2019-02-25T00:15:46.895Z"}
+{"level":"info","message":"Database connected","timestamp":"2019-02-25T00:18:07.641Z"}
+{"level":"info","message":"Database connected","timestamp":"2019-02-25T00:21:01.619Z"}
+{"level":"info","message":"Database connected","timestamp":"2019-02-25T00:21:02.793Z"}
+{"level":"info","message":"Database connected","timestamp":"2019-02-25T00:21:11.057Z"}
+{"level":"info","message":"Database connected","timestamp":"2019-02-25T00:28:34.851Z"}
+{"level":"info","message":"Database connected","timestamp":"2019-02-25T00:29:58.826Z"}
+{"level":"info","message":"Database connected","timestamp":"2019-02-25T00:30:17.851Z"}
+{"level":"info","message":"Database connected","timestamp":"2019-02-25T00:32:55.921Z"}
+{"level":"info","message":"Database connected","timestamp":"2019-02-25T00:34:00.464Z"}
+{"level":"info","message":"Database connected","timestamp":"2019-02-25T00:34:43.926Z"}
+{"level":"error","message":"Blog.create is not a function","timestamp":"2019-02-25T00:35:17.284Z"}
+{"level":"error","message":"Blog.create is not a function","timestamp":"2019-02-25T00:35:20.891Z"}
+{"level":"info","message":"Database connected","timestamp":"2019-02-25T00:36:37.066Z"}
+{"level":"info","message":"Database connected","timestamp":"2019-02-25T00:36:49.815Z"}
+{"level":"error","message":"Blog.create is not a function","timestamp":"2019-02-25T00:36:54.852Z"}
+{"level":"info","message":"Database connected","timestamp":"2019-02-25T00:37:48.380Z"}
+{"level":"error","message":"Blog.create is not a function","timestamp":"2019-02-25T00:38:10.675Z"}
+{"level":"info","message":"Database connected","timestamp":"2019-02-25T00:38:29.375Z"}
+{"level":"info","message":"Database connected","timestamp":"2019-02-25T00:38:56.913Z"}
+{"level":"error","message":"Blog.create is not a function","timestamp":"2019-02-25T00:39:12.488Z"}
+{"level":"error","message":"Blog.create is not a function","timestamp":"2019-02-25T00:41:12.473Z"}
+{"level":"info","message":"Database connected","timestamp":"2019-02-25T00:41:14.529Z"}
+{"level":"info","message":"Database connected","timestamp":"2019-02-25T00:41:17.083Z"}
+{"level":"info","message":"Database connected","timestamp":"2019-02-25T00:42:45.178Z"}
+{"level":"info","message":"Database connected","timestamp":"2019-02-25T00:42:46.031Z"}
+{"level":"info","message":"Database connected","timestamp":"2019-02-25T00:44:02.552Z"}
+{"level":"info","message":"Database connected","timestamp":"2019-02-25T00:44:09.393Z"}
+{"level":"info","message":"Database connected","timestamp":"2019-02-25T00:44:10.274Z"}
+{"level":"info","message":"Database connected","timestamp":"2019-02-25T00:44:44.888Z"}
+{"level":"info","message":"Database connected","timestamp":"2019-02-25T00:46:09.538Z"}
+{"level":"info","message":"Database connected","timestamp":"2019-02-25T00:46:12.683Z"}
+{"level":"info","message":"Database connected","timestamp":"2019-02-25T00:46:34.688Z"}
+{"level":"info","message":"Database connected","timestamp":"2019-02-25T00:46:36.323Z"}
+{"level":"info","message":"Database connected","timestamp":"2019-02-25T00:55:04.027Z"}
+{"level":"info","message":"Database connected","timestamp":"2019-02-25T00:55:25.453Z"}
+{"level":"info","message":"Database connected","timestamp":"2019-02-25T00:56:19.129Z"}
+{"level":"info","message":"Database connected","timestamp":"2019-02-25T00:57:04.283Z"}
+{"level":"info","message":"Database connected","timestamp":"2019-02-25T01:08:52.454Z"}
+{"level":"info","message":"Database connected","timestamp":"2019-02-25T01:08:53.709Z"}
+{"level":"info","message":"Database connected","timestamp":"2019-02-25T01:09:04.775Z"}
+{"level":"info","message":"Database connected","timestamp":"2019-02-25T01:13:14.576Z"}
+{"level":"info","message":"Database connected","timestamp":"2019-02-25T01:25:11.785Z"}
+{"level":"error","message":"res is not defined","timestamp":"2019-02-25T01:25:12.971Z"}
+{"level":"error","message":"res is not defined","timestamp":"2019-02-25T01:25:17.505Z"}
+{"level":"error","message":"res is not defined","timestamp":"2019-02-25T01:25:28.018Z"}
+{"level":"info","message":"Database connected","timestamp":"2019-02-25T01:25:40.534Z"}
+{"level":"error","message":"res is not defined","timestamp":"2019-02-25T01:25:45.259Z"}
+{"level":"error","message":"res is not defined","timestamp":"2019-02-25T01:25:47.908Z"}
+{"level":"error","message":"res is not defined","timestamp":"2019-02-25T01:25:58.506Z"}
+{"level":"error","message":"res is not defined","timestamp":"2019-02-25T01:26:34.694Z"}
+{"level":"error","message":"res is not defined","timestamp":"2019-02-25T01:26:37.463Z"}
+{"level":"error","message":"res is not defined","timestamp":"2019-02-25T01:26:39.720Z"}
+{"level":"info","message":"Database connected","timestamp":"2019-02-25T01:27:46.449Z"}
+{"level":"error","message":"res is not defined","timestamp":"2019-02-25T01:27:49.491Z"}
+{"level":"info","message":"Database connected","timestamp":"2019-02-25T01:28:06.792Z"}
+{"level":"info","message":"Database connected","timestamp":"2019-02-25T01:28:09.859Z"}
+{"level":"info","message":"Database connected","timestamp":"2019-02-25T03:08:11.693Z"}
+{"level":"info","message":"Database connected","timestamp":"2019-02-25T03:10:10.563Z"}
+{"level":"info","message":"Database connected","timestamp":"2019-02-25T03:41:18.138Z"}
+{"level":"info","message":"Database connected","timestamp":"2019-02-25T03:41:28.088Z"}
+{"level":"info","message":"Database connected","timestamp":"2019-02-25T03:45:22.291Z"}
+{"level":"info","message":"Database connected","timestamp":"2019-02-25T03:45:23.624Z"}
+{"level":"info","message":"Database connected","timestamp":"2019-02-25T03:45:35.894Z"}
+{"level":"info","message":"Database connected","timestamp":"2019-02-25T13:54:19.765Z"}
+{"level":"error","message":"blog is not defined","timestamp":"2019-02-25T13:55:21.989Z"}
+{"level":"error","message":"blog is not defined","timestamp":"2019-02-25T13:57:21.989Z"}
+{"level":"info","message":"Database connected","timestamp":"2019-02-25T13:59:44.624Z"}
+{"level":"info","message":"Database connected","timestamp":"2019-02-25T13:59:48.577Z"}
+{"level":"info","message":"Database connected","timestamp":"2019-02-25T14:19:09.672Z"}
+{"level":"info","message":"Database connected","timestamp":"2019-02-25T15:28:33.184Z"}
+{"level":"info","message":"Database connected","timestamp":"2019-02-25T15:28:33.731Z"}
+{"level":"info","message":"Database connected","timestamp":"2019-02-25T15:35:13.318Z"}
+{"level":"info","message":"Database connected","timestamp":"2019-02-26T02:21:22.144Z"}
+{"level":"info","message":"Database connected","timestamp":"2019-02-26T02:21:35.016Z"}
+{"level":"info","message":"Database connected","timestamp":"2019-02-26T03:02:20.369Z"}
+{"level":"info","message":"Database connected","timestamp":"2019-02-26T03:45:18.417Z"}
+{"level":"info","message":"Database connected","timestamp":"2019-02-26T03:47:40.468Z"}
+{"level":"info","message":"Database connected","timestamp":"2019-02-26T03:48:26.580Z"}
+{"level":"info","message":"Database connected","timestamp":"2019-02-26T03:48:33.835Z"}
+{"level":"info","message":"Database connected","timestamp":"2019-02-26T03:48:55.445Z"}
+{"level":"info","message":"Database connected","timestamp":"2019-02-26T03:55:21.820Z"}
+{"level":"info","message":"Database connected","timestamp":"2019-02-26T03:55:23.164Z"}
+{"message":"Cast to [ObjectId] failed for value \"[{\"author\":\"robin.t.zhou@gmail.com\",\"content\":\"1111\"}]\" at path \"comments\"","stack":"CastError: Cast to [ObjectId] failed for value \"[{\"author\":\"robin.t.zhou@gmail.com\",\"content\":\"1111\"}]\" at path \"comments\"\n    at new CastError (/Users/robinzhou/RobinWorkSpace/Code/UI_Batch/MEAN-2.0/my-app/node_modules/mongoose/lib/error/cast.js:29:11)\n    at SchemaArray.cast (/Users/robinzhou/RobinWorkSpace/Code/UI_Batch/MEAN-2.0/my-app/node_modules/mongoose/lib/schema/array.js:225:15)\n    at castUpdateVal (/Users/robinzhou/RobinWorkSpace/Code/UI_Batch/MEAN-2.0/my-app/node_modules/mongoose/lib/helpers/query/castUpdate.js:370:24)\n    at walkUpdatePath (/Users/robinzhou/RobinWorkSpace/Code/UI_Batch/MEAN-2.0/my-app/node_modules/mongoose/lib/helpers/query/castUpdate.js:165:24)\n    at castUpdate (/Users/robinzhou/RobinWorkSpace/Code/UI_Batch/MEAN-2.0/my-app/node_modules/mongoose/lib/helpers/query/castUpdate.js:79:18)\n    at model.Query._castUpdate (/Users/robinzhou/RobinWorkSpace/Code/UI_Batch/MEAN-2.0/my-app/node_modules/mongoose/lib/query.js:4177:10)\n    at castDoc (/Users/robinzhou/RobinWorkSpace/Code/UI_Batch/MEAN-2.0/my-app/node_modules/mongoose/lib/query.js:4205:18)\n    at model.Query.Query._findAndModify (/Users/robinzhou/RobinWorkSpace/Code/UI_Batch/MEAN-2.0/my-app/node_modules/mongoose/lib/query.js:3240:19)\n    at model.Query.<anonymous> (/Users/robinzhou/RobinWorkSpace/Code/UI_Batch/MEAN-2.0/my-app/node_modules/mongoose/lib/query.js:2831:8)\n    at model.Query._wrappedThunk [as _findOneAndUpdate] (/Users/robinzhou/RobinWorkSpace/Code/UI_Batch/MEAN-2.0/my-app/node_modules/mongoose/lib/helpers/query/wrapThunk.js:16:8)\n    at process.nextTick (/Users/robinzhou/RobinWorkSpace/Code/UI_Batch/MEAN-2.0/my-app/node_modules/kareem/index.js:369:33)\n    at process.internalTickCallback (internal/process/next_tick.js:70:11)","name":"CastError","stringValue":"\"[{\"author\":\"robin.t.zhou@gmail.com\",\"content\":\"1111\"}]\"","kind":"[ObjectId]","value":"[{\"author\":\"robin.t.zhou@gmail.com\",\"content\":\"1111\"}]","path":"comments","reason":{"message":"Cast to ObjectId failed for value \"{ author: 'robin.t.zhou@gmail.com', content: '1111' }\" at path \"comments\"","name":"CastError","stringValue":"\"{ author: 'robin.t.zhou@gmail.com', content: '1111' }\"","kind":"ObjectId","value":{"author":"robin.t.zhou@gmail.com","content":"1111"},"path":"comments"},"level":"error","timestamp":"2019-02-26T03:55:28.791Z"}
+{"level":"info","message":"Database connected","timestamp":"2019-02-26T03:55:55.727Z"}
+{"message":"Cast to [ObjectId] failed for value \"[{\"author\":\"robin.t.zhou@gmail.com\",\"content\":\"66666666666\"}]\" at path \"comments\"","stack":"CastError: Cast to [ObjectId] failed for value \"[{\"author\":\"robin.t.zhou@gmail.com\",\"content\":\"66666666666\"}]\" at path \"comments\"\n    at new CastError (/Users/robinzhou/RobinWorkSpace/Code/UI_Batch/MEAN-2.0/my-app/node_modules/mongoose/lib/error/cast.js:29:11)\n    at SchemaArray.cast (/Users/robinzhou/RobinWorkSpace/Code/UI_Batch/MEAN-2.0/my-app/node_modules/mongoose/lib/schema/array.js:225:15)\n    at castUpdateVal (/Users/robinzhou/RobinWorkSpace/Code/UI_Batch/MEAN-2.0/my-app/node_modules/mongoose/lib/helpers/query/castUpdate.js:370:24)\n    at walkUpdatePath (/Users/robinzhou/RobinWorkSpace/Code/UI_Batch/MEAN-2.0/my-app/node_modules/mongoose/lib/helpers/query/castUpdate.js:165:24)\n    at castUpdate (/Users/robinzhou/RobinWorkSpace/Code/UI_Batch/MEAN-2.0/my-app/node_modules/mongoose/lib/helpers/query/castUpdate.js:79:18)\n    at model.Query._castUpdate (/Users/robinzhou/RobinWorkSpace/Code/UI_Batch/MEAN-2.0/my-app/node_modules/mongoose/lib/query.js:4177:10)\n    at castDoc (/Users/robinzhou/RobinWorkSpace/Code/UI_Batch/MEAN-2.0/my-app/node_modules/mongoose/lib/query.js:4205:18)\n    at model.Query.Query._findAndModify (/Users/robinzhou/RobinWorkSpace/Code/UI_Batch/MEAN-2.0/my-app/node_modules/mongoose/lib/query.js:3240:19)\n    at model.Query.<anonymous> (/Users/robinzhou/RobinWorkSpace/Code/UI_Batch/MEAN-2.0/my-app/node_modules/mongoose/lib/query.js:2831:8)\n    at model.Query._wrappedThunk [as _findOneAndUpdate] (/Users/robinzhou/RobinWorkSpace/Code/UI_Batch/MEAN-2.0/my-app/node_modules/mongoose/lib/helpers/query/wrapThunk.js:16:8)\n    at process.nextTick (/Users/robinzhou/RobinWorkSpace/Code/UI_Batch/MEAN-2.0/my-app/node_modules/kareem/index.js:369:33)\n    at process.internalTickCallback (internal/process/next_tick.js:70:11)","name":"CastError","stringValue":"\"[{\"author\":\"robin.t.zhou@gmail.com\",\"content\":\"66666666666\"}]\"","kind":"[ObjectId]","value":"[{\"author\":\"robin.t.zhou@gmail.com\",\"content\":\"66666666666\"}]","path":"comments","reason":{"message":"Cast to ObjectId failed for value \"{ author: 'robin.t.zhou@gmail.com', content: '66666666666' }\" at path \"comments\"","name":"CastError","stringValue":"\"{ author: 'robin.t.zhou@gmail.com', content: '66666666666' }\"","kind":"ObjectId","value":{"author":"robin.t.zhou@gmail.com","content":"66666666666"},"path":"comments"},"level":"error","timestamp":"2019-02-26T03:56:30.372Z"}
+{"level":"info","message":"Database connected","timestamp":"2019-02-26T03:57:28.209Z"}
+{"message":"Cast to [ObjectId] failed for value \"[{\"author\":\"robin.t.zhou@gmail.com\",\"content\":\"66666666\"}]\" at path \"comments\"","stack":"CastError: Cast to [ObjectId] failed for value \"[{\"author\":\"robin.t.zhou@gmail.com\",\"content\":\"66666666\"}]\" at path \"comments\"\n    at new CastError (/Users/robinzhou/RobinWorkSpace/Code/UI_Batch/MEAN-2.0/my-app/node_modules/mongoose/lib/error/cast.js:29:11)\n    at SchemaArray.cast (/Users/robinzhou/RobinWorkSpace/Code/UI_Batch/MEAN-2.0/my-app/node_modules/mongoose/lib/schema/array.js:225:15)\n    at castUpdateVal (/Users/robinzhou/RobinWorkSpace/Code/UI_Batch/MEAN-2.0/my-app/node_modules/mongoose/lib/helpers/query/castUpdate.js:370:24)\n    at walkUpdatePath (/Users/robinzhou/RobinWorkSpace/Code/UI_Batch/MEAN-2.0/my-app/node_modules/mongoose/lib/helpers/query/castUpdate.js:165:24)\n    at castUpdate (/Users/robinzhou/RobinWorkSpace/Code/UI_Batch/MEAN-2.0/my-app/node_modules/mongoose/lib/helpers/query/castUpdate.js:79:18)\n    at model.Query._castUpdate (/Users/robinzhou/RobinWorkSpace/Code/UI_Batch/MEAN-2.0/my-app/node_modules/mongoose/lib/query.js:4177:10)\n    at castDoc (/Users/robinzhou/RobinWorkSpace/Code/UI_Batch/MEAN-2.0/my-app/node_modules/mongoose/lib/query.js:4205:18)\n    at model.Query.Query._findAndModify (/Users/robinzhou/RobinWorkSpace/Code/UI_Batch/MEAN-2.0/my-app/node_modules/mongoose/lib/query.js:3240:19)\n    at model.Query.<anonymous> (/Users/robinzhou/RobinWorkSpace/Code/UI_Batch/MEAN-2.0/my-app/node_modules/mongoose/lib/query.js:2831:8)\n    at model.Query._wrappedThunk [as _findOneAndUpdate] (/Users/robinzhou/RobinWorkSpace/Code/UI_Batch/MEAN-2.0/my-app/node_modules/mongoose/lib/helpers/query/wrapThunk.js:16:8)\n    at process.nextTick (/Users/robinzhou/RobinWorkSpace/Code/UI_Batch/MEAN-2.0/my-app/node_modules/kareem/index.js:369:33)\n    at process.internalTickCallback (internal/process/next_tick.js:70:11)","name":"CastError","stringValue":"\"[{\"author\":\"robin.t.zhou@gmail.com\",\"content\":\"66666666\"}]\"","kind":"[ObjectId]","value":"[{\"author\":\"robin.t.zhou@gmail.com\",\"content\":\"66666666\"}]","path":"comments","reason":{"message":"Cast to ObjectId failed for value \"{ author: 'robin.t.zhou@gmail.com', content: '66666666' }\" at path \"comments\"","name":"CastError","stringValue":"\"{ author: 'robin.t.zhou@gmail.com', content: '66666666' }\"","kind":"ObjectId","value":{"author":"robin.t.zhou@gmail.com","content":"66666666"},"path":"comments"},"level":"error","timestamp":"2019-02-26T03:57:34.069Z"}
+{"level":"info","message":"Database connected","timestamp":"2019-02-26T03:57:56.167Z"}
+{"message":"Cast to [ObjectId] failed for value \"[{\"author\":\"robin.t.zhou@gmail.com\",\"content\":\"66666666\"}]\" at path \"comments\"","stack":"CastError: Cast to [ObjectId] failed for value \"[{\"author\":\"robin.t.zhou@gmail.com\",\"content\":\"66666666\"}]\" at path \"comments\"\n    at new CastError (/Users/robinzhou/RobinWorkSpace/Code/UI_Batch/MEAN-2.0/my-app/node_modules/mongoose/lib/error/cast.js:29:11)\n    at SchemaArray.cast (/Users/robinzhou/RobinWorkSpace/Code/UI_Batch/MEAN-2.0/my-app/node_modules/mongoose/lib/schema/array.js:225:15)\n    at castUpdateVal (/Users/robinzhou/RobinWorkSpace/Code/UI_Batch/MEAN-2.0/my-app/node_modules/mongoose/lib/helpers/query/castUpdate.js:370:24)\n    at walkUpdatePath (/Users/robinzhou/RobinWorkSpace/Code/UI_Batch/MEAN-2.0/my-app/node_modules/mongoose/lib/helpers/query/castUpdate.js:165:24)\n    at castUpdate (/Users/robinzhou/RobinWorkSpace/Code/UI_Batch/MEAN-2.0/my-app/node_modules/mongoose/lib/helpers/query/castUpdate.js:79:18)\n    at model.Query._castUpdate (/Users/robinzhou/RobinWorkSpace/Code/UI_Batch/MEAN-2.0/my-app/node_modules/mongoose/lib/query.js:4177:10)\n    at castDoc (/Users/robinzhou/RobinWorkSpace/Code/UI_Batch/MEAN-2.0/my-app/node_modules/mongoose/lib/query.js:4205:18)\n    at model.Query.Query._findAndModify (/Users/robinzhou/RobinWorkSpace/Code/UI_Batch/MEAN-2.0/my-app/node_modules/mongoose/lib/query.js:3240:19)\n    at model.Query.<anonymous> (/Users/robinzhou/RobinWorkSpace/Code/UI_Batch/MEAN-2.0/my-app/node_modules/mongoose/lib/query.js:2831:8)\n    at model.Query._wrappedThunk [as _findOneAndUpdate] (/Users/robinzhou/RobinWorkSpace/Code/UI_Batch/MEAN-2.0/my-app/node_modules/mongoose/lib/helpers/query/wrapThunk.js:16:8)\n    at process.nextTick (/Users/robinzhou/RobinWorkSpace/Code/UI_Batch/MEAN-2.0/my-app/node_modules/kareem/index.js:369:33)\n    at process.internalTickCallback (internal/process/next_tick.js:70:11)","name":"CastError","stringValue":"\"[{\"author\":\"robin.t.zhou@gmail.com\",\"content\":\"66666666\"}]\"","kind":"[ObjectId]","value":"[{\"author\":\"robin.t.zhou@gmail.com\",\"content\":\"66666666\"}]","path":"comments","reason":{"message":"Cast to ObjectId failed for value \"{ author: 'robin.t.zhou@gmail.com', content: '66666666' }\" at path \"comments\"","name":"CastError","stringValue":"\"{ author: 'robin.t.zhou@gmail.com', content: '66666666' }\"","kind":"ObjectId","value":{"author":"robin.t.zhou@gmail.com","content":"66666666"},"path":"comments"},"level":"error","timestamp":"2019-02-26T03:58:04.816Z"}
+{"level":"info","message":"Database connected","timestamp":"2019-02-26T03:58:20.944Z"}
+{"message":"Cast to [ObjectId] failed for value \"[{\"author\":\"robin.t.zhou@gmail.com\",\"content\":\"6666666\"}]\" at path \"comments\"","stack":"CastError: Cast to [ObjectId] failed for value \"[{\"author\":\"robin.t.zhou@gmail.com\",\"content\":\"6666666\"}]\" at path \"comments\"\n    at new CastError (/Users/robinzhou/RobinWorkSpace/Code/UI_Batch/MEAN-2.0/my-app/node_modules/mongoose/lib/error/cast.js:29:11)\n    at SchemaArray.cast (/Users/robinzhou/RobinWorkSpace/Code/UI_Batch/MEAN-2.0/my-app/node_modules/mongoose/lib/schema/array.js:225:15)\n    at castUpdateVal (/Users/robinzhou/RobinWorkSpace/Code/UI_Batch/MEAN-2.0/my-app/node_modules/mongoose/lib/helpers/query/castUpdate.js:370:24)\n    at walkUpdatePath (/Users/robinzhou/RobinWorkSpace/Code/UI_Batch/MEAN-2.0/my-app/node_modules/mongoose/lib/helpers/query/castUpdate.js:165:24)\n    at castUpdate (/Users/robinzhou/RobinWorkSpace/Code/UI_Batch/MEAN-2.0/my-app/node_modules/mongoose/lib/helpers/query/castUpdate.js:79:18)\n    at model.Query._castUpdate (/Users/robinzhou/RobinWorkSpace/Code/UI_Batch/MEAN-2.0/my-app/node_modules/mongoose/lib/query.js:4177:10)\n    at castDoc (/Users/robinzhou/RobinWorkSpace/Code/UI_Batch/MEAN-2.0/my-app/node_modules/mongoose/lib/query.js:4205:18)\n    at model.Query.Query._findAndModify (/Users/robinzhou/RobinWorkSpace/Code/UI_Batch/MEAN-2.0/my-app/node_modules/mongoose/lib/query.js:3240:19)\n    at model.Query.<anonymous> (/Users/robinzhou/RobinWorkSpace/Code/UI_Batch/MEAN-2.0/my-app/node_modules/mongoose/lib/query.js:2831:8)\n    at model.Query._wrappedThunk [as _findOneAndUpdate] (/Users/robinzhou/RobinWorkSpace/Code/UI_Batch/MEAN-2.0/my-app/node_modules/mongoose/lib/helpers/query/wrapThunk.js:16:8)\n    at process.nextTick (/Users/robinzhou/RobinWorkSpace/Code/UI_Batch/MEAN-2.0/my-app/node_modules/kareem/index.js:369:33)\n    at process.internalTickCallback (internal/process/next_tick.js:70:11)","name":"CastError","stringValue":"\"[{\"author\":\"robin.t.zhou@gmail.com\",\"content\":\"6666666\"}]\"","kind":"[ObjectId]","value":"[{\"author\":\"robin.t.zhou@gmail.com\",\"content\":\"6666666\"}]","path":"comments","reason":{"message":"Cast to ObjectId failed for value \"{ author: 'robin.t.zhou@gmail.com', content: '6666666' }\" at path \"comments\"","name":"CastError","stringValue":"\"{ author: 'robin.t.zhou@gmail.com', content: '6666666' }\"","kind":"ObjectId","value":{"author":"robin.t.zhou@gmail.com","content":"6666666"},"path":"comments"},"level":"error","timestamp":"2019-02-26T03:58:32.861Z"}
+{"message":"Cast to [ObjectId] failed for value \"[{\"author\":\"robin.t.zhou@gmail.com\",\"content\":\"6666666\"}]\" at path \"comments\"","stack":"CastError: Cast to [ObjectId] failed for value \"[{\"author\":\"robin.t.zhou@gmail.com\",\"content\":\"6666666\"}]\" at path \"comments\"\n    at new CastError (/Users/robinzhou/RobinWorkSpace/Code/UI_Batch/MEAN-2.0/my-app/node_modules/mongoose/lib/error/cast.js:29:11)\n    at SchemaArray.cast (/Users/robinzhou/RobinWorkSpace/Code/UI_Batch/MEAN-2.0/my-app/node_modules/mongoose/lib/schema/array.js:225:15)\n    at castUpdateVal (/Users/robinzhou/RobinWorkSpace/Code/UI_Batch/MEAN-2.0/my-app/node_modules/mongoose/lib/helpers/query/castUpdate.js:370:24)\n    at walkUpdatePath (/Users/robinzhou/RobinWorkSpace/Code/UI_Batch/MEAN-2.0/my-app/node_modules/mongoose/lib/helpers/query/castUpdate.js:165:24)\n    at castUpdate (/Users/robinzhou/RobinWorkSpace/Code/UI_Batch/MEAN-2.0/my-app/node_modules/mongoose/lib/helpers/query/castUpdate.js:79:18)\n    at model.Query._castUpdate (/Users/robinzhou/RobinWorkSpace/Code/UI_Batch/MEAN-2.0/my-app/node_modules/mongoose/lib/query.js:4177:10)\n    at castDoc (/Users/robinzhou/RobinWorkSpace/Code/UI_Batch/MEAN-2.0/my-app/node_modules/mongoose/lib/query.js:4205:18)\n    at model.Query.Query._findAndModify (/Users/robinzhou/RobinWorkSpace/Code/UI_Batch/MEAN-2.0/my-app/node_modules/mongoose/lib/query.js:3240:19)\n    at model.Query.<anonymous> (/Users/robinzhou/RobinWorkSpace/Code/UI_Batch/MEAN-2.0/my-app/node_modules/mongoose/lib/query.js:2831:8)\n    at model.Query._wrappedThunk [as _findOneAndUpdate] (/Users/robinzhou/RobinWorkSpace/Code/UI_Batch/MEAN-2.0/my-app/node_modules/mongoose/lib/helpers/query/wrapThunk.js:16:8)\n    at process.nextTick (/Users/robinzhou/RobinWorkSpace/Code/UI_Batch/MEAN-2.0/my-app/node_modules/kareem/index.js:369:33)\n    at process.internalTickCallback (internal/process/next_tick.js:70:11)","name":"CastError","stringValue":"\"[{\"author\":\"robin.t.zhou@gmail.com\",\"content\":\"6666666\"}]\"","kind":"[ObjectId]","value":"[{\"author\":\"robin.t.zhou@gmail.com\",\"content\":\"6666666\"}]","path":"comments","reason":{"message":"Cast to ObjectId failed for value \"{ author: 'robin.t.zhou@gmail.com', content: '6666666' }\" at path \"comments\"","name":"CastError","stringValue":"\"{ author: 'robin.t.zhou@gmail.com', content: '6666666' }\"","kind":"ObjectId","value":{"author":"robin.t.zhou@gmail.com","content":"6666666"},"path":"comments"},"level":"error","timestamp":"2019-02-26T04:00:32.863Z"}
+{"level":"info","message":"Database connected","timestamp":"2019-02-26T04:13:01.721Z"}
+{"level":"error","message":"Comment is not defined","timestamp":"2019-02-26T04:13:11.279Z"}
+{"level":"info","message":"Database connected","timestamp":"2019-02-26T04:13:54.011Z"}
+{"level":"info","message":"Database connected","timestamp":"2019-02-26T13:57:01.696Z"}
+{"level":"info","message":"Database connected","timestamp":"2019-02-26T13:57:25.514Z"}
+{"level":"info","message":"Database connected","timestamp":"2019-02-26T14:18:44.024Z"}
+{"level":"info","message":"Database connected","timestamp":"2019-02-26T14:19:31.062Z"}
+{"level":"info","message":"Database connected","timestamp":"2019-02-26T14:19:33.027Z"}
+{"level":"info","message":"Database connected","timestamp":"2019-02-26T14:20:27.360Z"}
+{"level":"info","message":"Database connected","timestamp":"2019-02-26T14:36:01.586Z"}
+{"level":"info","message":"Database connected","timestamp":"2019-02-26T14:36:13.939Z"}
+{"level":"info","message":"Database connected","timestamp":"2019-02-26T14:36:35.974Z"}
+{"level":"info","message":"Database connected","timestamp":"2019-02-26T14:36:46.134Z"}
+{"level":"info","message":"Database connected","timestamp":"2019-02-26T14:37:30.556Z"}
+{"level":"info","message":"Database connected","timestamp":"2019-02-26T14:37:31.824Z"}
+{"level":"info","message":"Database connected","timestamp":"2019-02-26T14:39:20.737Z"}
+{"level":"info","message":"Database connected","timestamp":"2019-02-26T14:42:21.229Z"}
+{"level":"info","message":"Database connected","timestamp":"2019-02-26T14:42:23.502Z"}
+{"level":"info","message":"Database connected","timestamp":"2019-02-26T14:45:08.680Z"}
+{"level":"info","message":"Database connected","timestamp":"2019-02-26T14:45:15.649Z"}
+{"level":"info","message":"Database connected","timestamp":"2019-02-26T14:47:38.994Z"}
+{"level":"info","message":"Database connected","timestamp":"2019-02-26T14:51:17.763Z"}
+{"level":"info","message":"Database connected","timestamp":"2019-02-26T14:51:18.513Z"}
+{"level":"info","message":"Database connected","timestamp":"2019-02-26T14:55:42.698Z"}
+{"level":"info","message":"Database connected","timestamp":"2019-02-26T14:56:11.330Z"}
+{"level":"info","message":"Database connected","timestamp":"2019-02-26T14:56:40.779Z"}
+{"level":"info","message":"Database connected","timestamp":"2019-02-26T14:57:38.807Z"}
+{"level":"info","message":"Database connected","timestamp":"2019-02-26T14:57:42.102Z"}
+{"level":"info","message":"Database connected","timestamp":"2019-02-26T14:59:40.232Z"}
+{"level":"info","message":"Database connected","timestamp":"2019-02-26T15:29:11.099Z"}
+{"level":"info","message":"Database connected","timestamp":"2019-02-26T15:30:00.539Z"}
+{"level":"info","message":"Database connected","timestamp":"2019-02-26T15:36:48.935Z"}
+{"level":"info","message":"Database connected","timestamp":"2019-02-26T15:37:21.391Z"}
+{"level":"info","message":"Database connected","timestamp":"2019-02-26T15:38:16.120Z"}
+{"level":"info","message":"Database connected","timestamp":"2019-02-26T15:38:29.929Z"}
+{"level":"info","message":"Database connected","timestamp":"2019-02-26T15:38:51.835Z"}
+{"level":"info","message":"Database connected","timestamp":"2019-02-26T15:39:43.371Z"}
+{"level":"info","message":"Database connected","timestamp":"2019-02-26T15:39:55.154Z"}
+{"level":"info","message":"Database connected","timestamp":"2019-02-26T15:40:38.171Z"}
+{"level":"info","message":"Database connected","timestamp":"2019-02-26T15:41:22.335Z"}
+{"level":"info","message":"Database connected","timestamp":"2019-02-26T15:47:34.212Z"}
+{"level":"info","message":"Database connected","timestamp":"2019-02-26T15:48:42.138Z"}
+{"level":"info","message":"Database connected","timestamp":"2019-02-26T15:49:00.731Z"}
+{"level":"info","message":"Database connected","timestamp":"2019-02-26T15:49:53.521Z"}
+{"level":"info","message":"Database connected","timestamp":"2019-02-26T15:50:02.622Z"}
+{"level":"info","message":"Database connected","timestamp":"2019-02-26T15:50:31.688Z"}
+{"level":"info","message":"Database connected","timestamp":"2019-02-26T15:52:08.444Z"}
+{"level":"info","message":"Database connected","timestamp":"2019-02-26T15:52:20.786Z"}
+{"level":"info","message":"Database connected","timestamp":"2019-02-26T15:59:13.094Z"}
+{"level":"info","message":"Database connected","timestamp":"2019-02-26T15:59:33.452Z"}
+{"level":"error","message":"item is not defined","timestamp":"2019-02-26T15:59:41.161Z"}
+{"level":"info","message":"Database connected","timestamp":"2019-02-26T16:00:07.797Z"}
+{"level":"error","message":"map.push is not a function","timestamp":"2019-02-26T16:00:20.121Z"}
+{"level":"info","message":"Database connected","timestamp":"2019-02-26T16:00:42.685Z"}
+{"level":"error","message":"resu is not defined","timestamp":"2019-02-26T16:00:43.978Z"}
+{"level":"error","message":"resu is not defined","timestamp":"2019-02-26T16:01:00.706Z"}
+{"level":"info","message":"Database connected","timestamp":"2019-02-26T16:01:27.939Z"}
+{"level":"info","message":"Database connected","timestamp":"2019-02-26T16:05:16.527Z"}
+{"level":"info","message":"Database connected","timestamp":"2019-02-26T16:05:46.308Z"}
+{"level":"info","message":"Database connected","timestamp":"2019-02-26T16:09:10.245Z"}
+{"level":"info","message":"Database connected","timestamp":"2019-02-26T16:10:53.275Z"}
+{"level":"info","message":"Database connected","timestamp":"2019-02-26T16:11:52.318Z"}
+{"level":"info","message":"Database connected","timestamp":"2019-02-26T16:12:07.184Z"}
+{"level":"info","message":"Database connected","timestamp":"2019-02-26T16:15:45.956Z"}
+{"level":"info","message":"Database connected","timestamp":"2019-02-26T16:15:49.412Z"}
+{"level":"info","message":"Database connected","timestamp":"2019-02-26T16:16:27.820Z"}
+{"level":"info","message":"Database connected","timestamp":"2019-02-26T16:17:30.444Z"}
+{"level":"error","message":"Cannot read property 'author' of undefined","timestamp":"2019-02-26T16:17:36.865Z"}
+{"level":"info","message":"Database connected","timestamp":"2019-02-26T16:18:01.646Z"}
+{"level":"error","message":"Cannot read property 'author' of undefined","timestamp":"2019-02-26T16:18:06.625Z"}
+{"level":"error","message":"Cannot read property 'author' of undefined","timestamp":"2019-02-26T16:18:16.646Z"}
+{"level":"info","message":"Database connected","timestamp":"2019-02-26T16:18:34.385Z"}
+{"level":"error","message":"Cannot read property 'author' of undefined","timestamp":"2019-02-26T16:18:37.296Z"}
+{"level":"info","message":"Database connected","timestamp":"2019-02-26T16:19:00.357Z"}
+{"level":"info","message":"Database connected","timestamp":"2019-02-26T16:19:55.554Z"}
+{"level":"info","message":"Database connected","timestamp":"2019-02-26T16:21:06.251Z"}
+{"level":"info","message":"Database connected","timestamp":"2019-02-26T16:21:12.439Z"}
+{"level":"info","message":"Database connected","timestamp":"2019-02-26T16:23:28.757Z"}
+{"level":"info","message":"Database connected","timestamp":"2019-02-26T16:24:42.728Z"}
+{"level":"info","message":"Database connected","timestamp":"2019-02-26T16:24:53.633Z"}
+{"level":"info","message":"Database connected","timestamp":"2019-02-26T16:33:13.886Z"}
+{"level":"info","message":"Database connected","timestamp":"2019-02-26T16:33:23.738Z"}
+{"level":"info","message":"Database connected","timestamp":"2019-02-26T16:33:30.423Z"}
+{"level":"error","message":"retult is not defined","timestamp":"2019-02-26T16:33:36.460Z"}
+{"level":"info","message":"Database connected","timestamp":"2019-02-26T16:33:55.953Z"}
+{"level":"info","message":"Database connected","timestamp":"2019-02-26T17:25:58.285Z"}
+{"level":"info","message":"Database connected","timestamp":"2019-02-26T17:26:09.552Z"}
+{"level":"info","message":"Database connected","timestamp":"2019-02-26T17:26:19.927Z"}
+{"level":"info","message":"Database connected","timestamp":"2019-02-26T17:28:50.689Z"}
+{"level":"info","message":"Database connected","timestamp":"2019-02-26T17:28:56.450Z"}
+{"level":"info","message":"Database connected","timestamp":"2019-02-26T17:47:11.377Z"}
+{"level":"error","message":"Database cannot connected","timestamp":"2019-03-20T13:16:24.345Z"}
+{"level":"info","message":"Database connected","timestamp":"2019-03-20T13:36:54.509Z"}
+{"level":"error","message":"Database cannot connected","timestamp":"2019-04-29T14:06:59.296Z"}
+{"level":"info","message":"Database connected","timestamp":"2019-04-29T14:15:17.765Z"}
