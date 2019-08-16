@@ -1,0 +1,16 @@
+<div class="jumbotron">
+    <h1>{{currentBlog.title}}</h1>
+    <p>{{currentBlog.content}}</p>
+    <p>Created by {{currentBlog.author.name}}</p>
+
+    <button class="btn btn-info" (click) = "commentToggle()">Comment</button>
+    <button class="btn btn-info" (click) = "like()">Like {{currentBlog.like.length}}</button>
+    <button class="btn btn-info" (click) = "delete()">Delete</button>
+   
+
+    <div *ngIf = "showComment">
+
+            <app-comments [blogId] = "currentBlog._id" [blogComments] = "currentBlog.comments"></app-comments>
+  
+        </div>
+</div>

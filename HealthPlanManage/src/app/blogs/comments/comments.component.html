@@ -1,0 +1,16 @@
+
+<div>
+    <form #commentForm = "ngForm" (ngSubmit) = "createComment(commentForm.value, commentForm.valid)">
+        <div class="form-group">
+            <textarea class="form-control"  rows="3"  [(ngModel)]= "commentForm.content" name="content" required></textarea>
+        </div>
+        <button type="submit" class="btn btn-default" [disabled] = "!commentForm.valid "> Submit</button>
+    
+      </form>
+    
+    
+</div>
+<ul class="list-group" *ngFor = "let comment of comments; let cVal = index">
+    
+    <li class="list-group-item">{{comment.content}} <br></li> 
+</ul>

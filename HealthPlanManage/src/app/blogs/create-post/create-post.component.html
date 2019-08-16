@@ -1,0 +1,28 @@
+<div class="panel panel-primary">
+
+  <div class="panel-heading">
+    New Blog
+
+  </div>
+
+  <div class="panel-body">
+
+      <form #blogForm = "ngForm" (ngSubmit) = "createBlog(blogForm.value, blogForm.valid)">
+          <div class="form-group">
+            <label for="exampleInputEmail1">Title</label>
+            <input type="text" class="form-control" [(ngModel)]= "blogForm.title"  name="title" id="exampleInputEmail1" placeholder="Title" required>
+          </div>
+          <div class="form-group">
+            <label for="exampleInputPassword1">Content</label>
+            <textarea class="form-control" rows="3"  [(ngModel)]= "blogForm.content" name="content" id="exampleInputPassword1" required></textarea>
+
+          </div>
+          
+          <button type="submit" class="btn btn-default" [disabled] = "!blogForm.valid "> Submit</button>
+      
+        </form>
+
+  </div>
+
+</div>
+

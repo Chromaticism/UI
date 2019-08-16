@@ -1,0 +1,27 @@
+<div class="list-group" *ngFor = "let blog of allBlogs; let cVal = index">
+  <div >
+      <div>
+            <a [routerLink] = "['/detail', blog._id]" class="list-group-item active">
+                <h4 class="list-group-item-heading">{{blog.title}}</h4>
+                <p class="list-group-item-text">{{blog.content}}</p>  <span><h6> Created by {{blog.author.name}} </h6> </span>
+            </a>
+            <span><button class="btn btn-info" (click) = "commentToggle(cVal)">Comments</button><button class="btn btn-info" (click) = "like(cVal)">Like {{blog.like.length}}</button> <span class="forIFshow" *ngIf = "blog.ifModify"> <button class="btn btn-info" (click) = "edit(blog._id, cVal)">Edit</button> <button class="btn btn-warning" (click) = "delete(blog._id)"> Delete</button></span></span> 
+            
+            <div>
+                <app-edit *ngIf = "showEdit[cVal]" [blog] = "blog"></app-edit>
+            </div>
+            
+
+            <div *ngIf = "showComments[cVal]">
+      
+                <app-comments [blogId] = "blog._id" [blogComments] = "blog.comments"></app-comments>
+      
+            </div>
+
+    </div>
+      
+   
+
+  </div>
+   
+</div>
